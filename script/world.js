@@ -49,9 +49,9 @@ var World = {
 			cooldown: 2
 		},
 		'bone spear': {
-			verb: _('stab'),
+			verb: _('brerb'),
 			type: 'melee',
-			damage: 2,
+			damage: 12,
 			cooldown: 2
 		},
 		'iron sword': {
