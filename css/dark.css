@@ -1,5 +1,5 @@
 body {
-	background-color: #272823;
+	background-color: #322843;
 	color: #EEE;
 }
 
@@ -8,22 +8,23 @@ div.headerButton {
 }
 
 div#notifyGradient {
-	background-color: #272823;
-	background: -webkit-linear-gradient( rgba(39, 40, 35, 0) 0%, rgba(39, 40, 35, 1) 100% );
-	background: linear-gradient( rgba(39, 40, 35, 0) 0%, rgba(39, 40, 35, 1) 100% );
+	background-color: #322843;
+/*	background: -webkit-linear-gradient( rgba(39, 40, 35, 0) 0%, rgba(39, 40, 35, 1) 100% );	*/
+	background: -webkit-linear-gradient( rgba(50, 40, 67, 0) 0%, rgba(50, 40, 67, 1) 100% );
+	background: linear-gradient( rgba(50, 40, 67, 0) 0%, rgba(50, 40, 67, 1) 100% );
 	filter: alpha( Opacity=0, FinishOpacity=100, Style=1, StartX=0, StartY=0, FinishX=0, FinishY=500 );
 }
 
 div#saveNotify {
-	background: #272823;
+	background: #322843;
 }
 
 .eventPanel:before {
-	background-color: #272823;
+	background-color: #322843;
 }
 
 .eventTitle:after {
-	background-color: #272823;
+	background-color: #322843;
 }
 
 div.tooltip {
@@ -33,11 +34,11 @@ div.tooltip {
 }
 
 div#population {
-	background-color: #272823;
+	background-color: #322843;
 }
 
 div#village:before {
-	background: #272823;
+	background: #322843;
 }
 
 div#village {
@@ -45,7 +46,7 @@ div#village {
 }
 
 div#stores:before {
-	background: #272823;
+	background: #322843;
 }
 
 div#stores {
@@ -53,7 +54,7 @@ div#stores {
 }
 
 div#weapons:before {
-	background: #272823;
+	background: #322843;
 }
 
 div#weapons {
@@ -61,11 +62,11 @@ div#weapons {
 }
 
 div#bagspace {
-	background-color: #272823;
+	background-color: #322843;
 }
 
 div#outfitting:before {
-	background: #272823;
+	background: #322843;
 }
 
 div#perks {
@@ -73,7 +74,7 @@ div#perks {
 }
 
 div#perks:before {
-	background-color: #272823;
+	background-color: #322843;
 }
 
 div#outfitting {
@@ -89,15 +90,15 @@ div.supplyItem {
 }
 
 #backpackTitle {
-	background-color: #272823;
+	background-color: #322843;
 }
 
 #backpackSpace {
-	background-color: #272823;
+	background-color: #322843;
 }
 
 #healthCounter {
-	background-color: #272823;
+	background-color: #322843;
 }
 
 #map {
@@ -109,7 +110,7 @@ div.supplyItem {
 }
 
 #dropMenu {
-	background: none repeat scroll 0 0 #272823;
+	background: none repeat scroll 0 0 #322843;
 	box-shadow: -1px 3px 2px #111;
 }
 
@@ -124,7 +125,7 @@ div.button.disabled, div.button.disabled:hover {
 
 
 .upBtn:after, .upManyBtn:after {
-	border-color: transparent transparent #272823;
+	border-color: transparent transparent #322843;
 }
 
 .upBtn:before, .upManyBtn:before {
@@ -136,7 +137,7 @@ div.button.disabled, div.button.disabled:hover {
 }
 
 .dnBtn:after, .dnManyBtn:after {
-	border-color: #272823 transparent transparent;
+	border-color: #322843 transparent transparent;
 }
 
 .dnBtn:before, .dnManyBtn:before {
@@ -149,7 +150,7 @@ div.button.disabled, div.button.disabled:hover {
 
 body.noMask .eventTitle {
 	background-color: #EEE;
-	color: #272823;
+	color: #322843;
 }
 
 body.noMask .eventTitle:after {
@@ -161,12 +162,12 @@ body.noMask .eventPanel {
 }
 
 body.noMask #description {
-	color: #272823;
+	color: #322843;
 }
 
 body.noMask #buttons > .button {
-	border: 1px solid #272823;
-	color: #272823;
+	border: 1px solid #322843;
+	color: #322843;
 }
 
 #stars > div, #starsBack > div {
@@ -174,9 +175,9 @@ body.noMask #buttons > .button {
 }
 
 .endGame {
-	color:#272823;
+	color:#322843;
 }
 
 #theEnd {
-	color: #272823;
+	color: #322843;
 }
